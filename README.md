@@ -11,3 +11,5 @@ This is a simple readme file
 some new line on a branch !!!
 
 new line from updates-2 branch
+
+add line for stashing
