@@ -9,3 +9,5 @@ This is a simple readme file
 ## Heading 2
 
 some new line on a branch !!!
+
+new line from updates-2 branch
